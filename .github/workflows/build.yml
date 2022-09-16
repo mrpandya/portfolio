@@ -15,7 +15,6 @@ jobs:
         with:
           channel: 'dev'
       - run: flutter config --enable-web
-      - name: Check if dotenv exists
       - run: |
           if [[ -f dotenv ]]; then
             echo "Already present, ignoring."
