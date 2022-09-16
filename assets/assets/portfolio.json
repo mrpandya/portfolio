@@ -1,0 +1,164 @@
+{
+    "name_and_link": [
+        "Manan Pandya",
+        "https://github.com/mrpandya/"
+    ],
+    "designation": [
+        "CS Undergrad.",
+        "Software Developer.",
+        "Backend Developer."
+    ],
+    "resume_download_link": "https://drive.google.com/file/d/1l6uIIwMM0asVklKM00lOqFYE7qKidlAo/view?usp=sharing",
+    "social_media": {
+        "1": [
+            "https://github.com/mrpandya/",
+            "github"
+        ],
+        "2": [
+            "https://leetcode.com/mananpandya/",
+            "leetcode"
+        ],
+        "3": [
+            "https://linkedin.com/in/lefthandedwolf/",
+            "linkedin"
+        ],
+        "4": [
+            "mailto:mrpandya@gmail.com",
+            "email"
+        ]
+    },
+    "contact_me": {
+        "location": "Mumbai, India",
+        "open_for_opportunities": "Yes",
+        "picture": "snorlax.jpeg"
+    },
+    "about": "A passionate Software Developer 🚀 | Open Source enthusiast 📝 | Maintainer 👷",
+    "bio": "Final Year CS Engineering student. I spend my leisure time building projects and a little bit of freelance. I've hands-on experience in working on several projects that use Python, Node.js, Flutter, C#, C++, etc. Most of my projects are released as open-source on GitHub.",
+    "what_i_do": {
+        "tools": [
+            "cpp.png",
+            "java.png",
+            "python.png",
+            "firebase.png",
+            "heroku.png",
+            "nodejs.png",
+            "mongodb.png",
+            "mysql.png",
+            "postgresql.png",
+            "sqlite.png",
+            "aws.png",
+            "docker.png",
+            "gcp.png",
+            "jenkins.png",
+            "dotnet.png",
+            "flask.png",
+            "angularjs.png",
+            "bootstrap.png",
+            "css.png",
+            "html.png",
+            "reactjs.png",
+            "android.png",
+            "dart.png",
+            "flutter.png",
+            "git.png",
+            "linux.png",
+            "c.png",
+            "csharp.png",
+            "javascript.png",
+            "typescript.png",
+            "postman.png",
+            "selenium.png"            
+        ],
+        "proficiency": [
+            "Front End--70",
+            "Back End--90",
+            "Flutter--60",
+            "C/C++/Python--90",
+            "GNU/Linux--60",
+            "Git--65"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "KJ Somaiya College of Engineering",
+            "location": "Mumbai",
+            "years": "2019 - 2023",
+            "description": "B.Tech in CSE",
+            "grades": "9 CGPA",
+            "logo": "kjsce.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "Barclays",
+            "role": "Graduate Intern",
+            "period": "June, 2022 - August, 2022",
+            "description": "Worked on Microservices and designed and developed a system used for archival and purging of multiple services' database.",
+            "image_name": "barclays.jpeg"
+        },
+        "2": {
+            "name": "IRx Clinics",
+            "role": "Software Developer",
+            "period": "August, 2021 - November, 2021",
+            "description": "Designed and developed a system that runs offline as a replacement for their online version.",
+            "image_name": "irx.jpeg"
+        },
+        "3": {
+            "name": "HealthySure",
+            "role": "Backend Developer",
+            "period": "March, 2021 - May, 2021",
+            "description": "Freelance project for an early age startup.",
+            "image_name": ""
+        },
+        "4": {
+            "name": "CSI KJSCE",
+            "role": "Tech Head",
+            "period": "June, 2020 - August 2021",
+            "description": "Technical Head for the college council CSI.",
+            "image_name": "csi.png"
+        },
+        "5": {
+            "name": "CSI KJSCE",
+            "role": "FE Representative",
+            "period": "January, 2020 - June 2020",
+            "description": "First Year Represntative for the college council CSI.",
+            "image_name": "csi.png"
+        }
+    },
+    "projects": {
+        "1": {
+            "name": "My-DBMS",
+            "tech_stack_used": "C++",
+            "description": "This is a SQL based DBMS. It uses a custom data structure, to make querying faster.",
+            "general_or_github_link": "https://github.com/mrpandya/DBMS_from_scratch"
+        },
+        "2": {
+            "name": "Rokda",
+            "tech_stack_used": "Node Js",
+            "description": "Blockchain Engine using Node Js and Express Js in backend and Swagger Js as a frontend to execute the APIs",
+            "general_or_github_link": "https://github.com/mrpandya/rokda"
+        },
+        "3": {
+            "name": "Ajnabee",
+            "tech_stack_used": "Django backend along with a Flutter mobile application",
+            "description": "It has a Django RESTframework backend. It uses cosine similarity to analyze the chats. It uses KMeans for recommendations of users who show similar results in the Rorschach test. Mobile application is made using Flutter, it uses Firestore Cloud Storage for the chatting application.",
+            "general_or_github_link": "https://github.com/Hungry-Hippoos/Ajnabee"
+        },
+        "4": {
+            "name": "WhatsApp Bomber",
+            "tech_stack_used": "Selenium",
+            "description": "Python script that automates sending a message on whatsapp. It bombards a message multiple times to one contact.",
+            "general_or_github_link": "https://github.com/mrpandya/whatsapp-bomber"
+        }
+    },
+    "achievements": {
+        "1": {
+            "description": "Finalist at KJSCE Hack 5.0",
+            "link": ""
+        },
+        "2": {
+            "description": "Finalist at Smart India Hackathon",
+            "link": ""
+        }
+    }
+}
